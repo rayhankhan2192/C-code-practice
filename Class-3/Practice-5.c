@@ -16,11 +16,11 @@ int main()
     }
     if(count==0)
         {
-            printf("%d is prime number.",num);
+            printf("\nprime number.");
         }
         else
         {
-            printf("%d is not prime number.",num);
+            printf("Not prime number.");
         }
     getch();
 }
