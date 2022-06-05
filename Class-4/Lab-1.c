@@ -22,7 +22,6 @@ int main()
     case 1:
         printf("\n\n");
         printf("\t\t========== FIND FACTORIAL NUMBER ==========\n\n");
-        //int fact=1,num,i;
         printf("Enter the value = ");
         scanf("%d",&num);
         for(i=1; i<=num; i++)
