@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    int num,count=0,i;
+    int n,count=0,i;
     printf("Enter the value = ");
-    scanf("%d",&num);
+    scanf("%d",&n);
 
-    for(i=2; i<num; i++)
+    for(i=2; i<n; i++)
     {
-        if(num%i==0)
+        if(n%i==0)
         {
             count++;
             break;
