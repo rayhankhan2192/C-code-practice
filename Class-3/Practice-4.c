@@ -7,7 +7,7 @@ int main()
     int num=7,i;
     float sum=0.00, factorial=1.00;
     //printf("Enter the last number of the series = ");
-    //scanf("%d %d",&num1,&num2);
+    //scanf("%d ",&num);
     printf("\n\n1/1! + 2/2! + 3/3!+.......+ %d/%d!",num,num);
 
     for(i=1; i<=num; i++)
