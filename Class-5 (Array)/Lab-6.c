@@ -1,4 +1,4 @@
-/*Than code can reverse the numbers */
+/*That code can reverse the numbers */
 #include<stdio.h>
 int main()
 {
