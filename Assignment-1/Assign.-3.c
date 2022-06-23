@@ -34,6 +34,7 @@ int main()
     {
         if(i%2!=0)
         {
+            printf("%d\t",i);
             sum = sum + i;
             i+=2;
         }
