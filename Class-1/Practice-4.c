@@ -11,4 +11,5 @@ int main()
     printf("\nThe centigrade temperature is %.2f C",centigrade);
 
     getch();
+    
 }
