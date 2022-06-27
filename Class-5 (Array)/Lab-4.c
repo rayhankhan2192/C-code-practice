@@ -24,6 +24,7 @@ int main()
 
         printf("\nMinimum number = %d\n",min);
     }
+    
     getch();
 
 }
