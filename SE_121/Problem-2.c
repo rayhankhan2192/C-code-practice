@@ -14,6 +14,7 @@ int main()
          sum = sum+i;
         }
     }
+    
     printf("\n\nThe sum of odd numbers between 1-%d is = %d\n\n",num,sum);
 
 }
