@@ -16,5 +16,5 @@ int main()
 
     printf("\nThe first %d numbers sum is = %d\n\n",num,sum);
 
-    return 0;
+    return 0 ;
 }
