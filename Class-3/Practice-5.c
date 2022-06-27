@@ -25,5 +25,6 @@ int main()
             printf("Not prime number.");
         }
     getch();
+    
 }
 
