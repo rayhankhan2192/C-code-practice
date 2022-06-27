@@ -13,4 +13,5 @@ int main()
         temp = temp/10;
     }
     printf("The sum is %d number is = %d",num,sum);
+    return 0;
 }
