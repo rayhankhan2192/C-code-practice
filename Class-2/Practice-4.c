@@ -24,4 +24,5 @@ int main()
         printf("\n\nNumbers are not equal\n\n");
 
     getch();
+    
 }
