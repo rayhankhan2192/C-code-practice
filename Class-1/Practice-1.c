@@ -17,4 +17,5 @@ int main()
    printf("Gross salary is = %.2lf",gross_salary);
 
    getch();
+   
 }
