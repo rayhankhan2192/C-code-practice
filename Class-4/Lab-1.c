@@ -78,5 +78,6 @@ int main()
         printf("\n\t  TRY AGAIN  \n");
 
     }
+    return 0;
 }
 
