@@ -23,5 +23,5 @@ int main()
     printf("1st & last number sum is = %d\n",sum1);
 
 
-
+return 0;
 }
