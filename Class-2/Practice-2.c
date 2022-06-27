@@ -28,4 +28,5 @@ int main()
         printf("Numbers are equal\n");
 
     getch();
+    
 }
