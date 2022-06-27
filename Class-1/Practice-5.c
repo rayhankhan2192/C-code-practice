@@ -23,4 +23,5 @@ int main()
     printf("The perimeter of rectangle is %.2lf\n",perimeter_of_rectangle);
 
     getch();
+    
 }
