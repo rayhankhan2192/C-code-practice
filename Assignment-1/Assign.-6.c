@@ -16,5 +16,7 @@ int main()
     }
     printf("\nThe sum of 1st %d even numbers is = %d\n",num2,sum);
 
-
+return 0;
+    
+    
 }
