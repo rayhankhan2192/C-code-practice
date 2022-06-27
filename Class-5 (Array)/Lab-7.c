@@ -25,5 +25,6 @@ int main()
         printf("Numbers are available.\n");
         printf("Numbers position is %d\n",pos);
     }
+    
     getch();
 }
