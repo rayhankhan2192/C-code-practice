@@ -16,7 +16,7 @@ int main()
     printf("\nReverse number is = ");
     for(i=n; i>=1; i--)
     {
-        printf("%d  ",A[i]);
+        printf("%d  ",num[i]);
     }
     
     return 0;
