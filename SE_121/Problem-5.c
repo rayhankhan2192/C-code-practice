@@ -31,6 +31,7 @@ int main()
         printf("Not Armstrong");
     }
     return 0;
+    
 }
 
 
