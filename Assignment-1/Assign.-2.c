@@ -17,5 +17,6 @@ int main()
     }
     printf("\nThe sum is %d\n",sum);
     printf("Average number is %.2lf\n\n\n",(float)sum/10);
-
+    
+return 0;
 }
