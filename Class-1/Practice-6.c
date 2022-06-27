@@ -11,4 +11,5 @@ int main()
     printf("d=%d  c=%d",c,d);
 
     getch();
+    
 }
