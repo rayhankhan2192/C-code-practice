@@ -18,5 +18,6 @@ int main()
     else{
         printf("\nAll point are not in the straight line\n\n");
     }
+    
     return 0;
 }
