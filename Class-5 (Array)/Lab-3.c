@@ -24,6 +24,7 @@ int main()
 
         printf("\nMaximum number = %d\n",max);
     }
+    
     getch();
 
 }
