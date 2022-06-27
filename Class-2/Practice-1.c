@@ -27,5 +27,6 @@ int main()
             printf("\n\nProduct price & selling price equal !!");
         }
     }
+    
     return 0;
 }
